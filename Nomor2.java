@@ -30,7 +30,7 @@ public class Nomor2 {
         
         double totalWithTax = hitungTotalDenganPajak(total);
 
-        System.out.println("Total yang harus dibayar: " + totalWithTax);
+        System.out.println( totalWithTax);
 
         /* Pekerjaan anda berakhir sini */
 
